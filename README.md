@@ -1,4 +1,4 @@
-# customer_behavior_analysis_and_segmentation
+# Customer Behavior Analysis and Segmentation
 
 ## Overview
 This project analyzes customer purchasing behavior and marketing engagement to identify segments and guide targeted marketing strategies. The focus is on understanding who the best customers are, what they buy, and which channels drive the most value.
