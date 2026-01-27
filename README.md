@@ -26,9 +26,9 @@ A retail company wants to:
 ## Tools and Libraries Used
 - Language: Python (Visual Studio Code)
 - Libraries:
-  - pandas and numpy for data handling
+  - pandas for data handling
   - scikit-learn for model training, preprocessing, and evaluation
-  - matplotlib and seaborn for exploratory data analysis and plots
+  - matplotlib for exploratory data analysis and plots
 - Techniques:
   - Data cleaning and feature engineering
   - Standardization of numeric variables
